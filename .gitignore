@@ -1,4 +1,8 @@
-venv/
+enviro/
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+*.log
